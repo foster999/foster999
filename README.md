@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, I'm David 👋
+
+[![foster999's github stats](https://github-readme-stats.vercel.app/api?username=foster999&show_icons=true&count_private=true&hide=stars&theme=tokyonight)](https://github.com/foster999)
 
 <!--
 **foster999/foster999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
