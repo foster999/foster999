@@ -1,6 +1,6 @@
 ## Hi there, I'm David 👋
 
-✔ I work to promote [good programming practices in UK Government analysis and research](https://github.com/best-practice-and-impact).
+✔ I teach and advise on [good programming practices in UK Government analysis and research](https://github.com/best-practice-and-impact).
 
 :octocat: I'm a huge advocate of open source and a keen contributor in my spare time.
 
